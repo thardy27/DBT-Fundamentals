@@ -39,4 +39,4 @@ models:
       +materialized: view
 
     Marts: 
-      +materialized: view
+      +materialized: table
